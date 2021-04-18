@@ -1,0 +1,26 @@
+{
+  "name": "webpack_learning",
+  "version": "1.0.0",
+  "description": "webpack learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sachin/webpack_learnning.git"
+  },
+  "keywords": [
+    "webpack",
+    "learning"
+  ],
+  "author": "sachin choudhary",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sachin/webpack_learnning/issues"
+  },
+  "homepage": "https://github.com/sachin/webpack_learnning#readme",
+  "devDependencies": {
+    "webpack": "^5.33.2"
+  }
+}
