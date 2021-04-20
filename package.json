@@ -2,10 +2,10 @@
   "name": "webpack_learning",
   "version": "1.0.0",
   "description": "webpack learning",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "webpack src/js/app.js dist/bundle.js"
+    "build": "webpack --entry ./src/js/app.js"
   },
   "repository": {
     "type": "git",
