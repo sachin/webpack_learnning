@@ -1,6 +1,6 @@
-# Webpack Basics Tutorial
+# Webpack Tutorial
 
-Webpack basic code.
+Make bundle of js file. 
 
 ## Key notes:
 - `./src/index.js` is the default entry point.
